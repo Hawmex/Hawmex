@@ -2,7 +2,7 @@
 
 Hi, I'm Hamed, a junior web developer currently based in Shahin Shahr, Iran.
 
-You can fined my portfolio [here](https://hawmex-portfolio.netlify.app).
+You can find my portfolio [here](https://hawmex-portfolio.netlify.app).
 
 💬 I'm currently maintaining [`nexinterface`](https://github.com/Hawmex/nexinterface),
 [`nexwidget`](https://github.com/Hawmex/nexwidget),
