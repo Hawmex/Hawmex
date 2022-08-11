@@ -2,7 +2,7 @@
 
 Hi, I'm Hamed, a Dart/JS/TS programmer currently based in Tehran, Iran.
 
-You can find my portfolio [here](https://hawmex-portfolio.netlify.app).
+You can find more info [here](https://hamedaarab.netlify.app/).
 
 💬 I'm currently maintaining [`dawn`](https://github.com/Hawmex/dawn)
 and [`dawn_lints`](https://github.com/Hawmex/dawn_lints).
