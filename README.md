@@ -1,4 +1,4 @@
-### Hamed Aarab
+### Hamed Araab
 
 Hi, I'm Hamed, a Dart/JS/TS programmer currently based in Tehran, Iran.
 
