@@ -1,12 +1,14 @@
-### Hamed Araab
+# Hamed Araab
 
-Hi, I'm Hamed, a Python/Dart/JS/TS/ programming enthusiast currently based in Tehran, Iran.
+## About Me
 
-You can find more info [here](https://hamedaraab.netlify.app/).
+Hi, I'm Hamed, a senior Industrial Engineering student at Tehran Polytechnic, and
+a Python/Dart/JS/TS/ programming enthusiast currently based in Tehran, Iran.
 
-💬 I'm currently maintaining [`navand`](https://github.com/Hawmex/navand).
-Feel free to discuss and contribute!!!
+You can find more info [here](https://linkedin.com/in/hamed-araab).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawmex)
+## My Active Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hawmex&show_icons=true&count_private=true)
+I'm currently maintaining [`navand`](https://github.com/Hawmex/navand).
+
+Feel free to discuss and contribute!
