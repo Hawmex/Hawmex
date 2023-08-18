@@ -12,3 +12,7 @@ You can find more info [here](https://linkedin.com/in/hamed-araab).
 I'm currently maintaining [`navand`](https://github.com/Hawmex/navand).
 
 Feel free to discuss and contribute!
+
+## Personal Projects and Coursework
+
+My distinguished personal projects and coursework are pinned below.
