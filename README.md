@@ -15,4 +15,4 @@ Feel free to discuss and contribute!
 
 ## Personal Projects and Coursework
 
-My distinguished personal projects and coursework are pinned below.
+Several significant personal projects and coursework of mine are pinned below.
