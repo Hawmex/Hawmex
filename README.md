@@ -9,7 +9,7 @@ You can find more info [here](https://linkedin.com/in/hamed-araab).
 
 ## My Active Projects
 
-I'm currently maintaining [`navand`](https://github.com/Hawmex/navand).
+I'm currently maintaining [Navand](https://github.com/Hawmex/navand).
 Feel free to discuss and contribute!
 
 ## Personal Projects and Coursework
