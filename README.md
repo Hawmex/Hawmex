@@ -14,4 +14,4 @@ Feel free to discuss and contribute!
 
 ## Personal Projects and Coursework
 
-You can find several of my significant projects and coursework below.
+You can see a selection of my projects below.
