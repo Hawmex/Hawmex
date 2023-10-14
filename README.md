@@ -5,7 +5,7 @@
 Hi, I'm Hamed, a senior industrial engineering student at Tehran Polytechnic.
 I'm a programming enthusiast focused on Python, Dart, JavaScript, and TypeScript.
 
-You can find more info [here](https://hamedaraab.netlify.app).
+You can find more info [here](https://hamedaraab.ir).
 
 ## Personal Projects and Coursework
 
