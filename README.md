@@ -13,3 +13,7 @@ I'm currently maintaining [Navand](https://github.com/Hawmex/navand).
 Feel free to discuss and contribute!
 
 You can also see a selection of my projects below.
+
+## Stats
+
+![Hawmex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hawmex&show_icons=true&theme=tokyonight)
