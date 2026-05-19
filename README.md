@@ -2,6 +2,17 @@
 
 ## About Me
 
-Industrial Engineer and researcher specializing in optimization, machine learning, and intelligent systems, with a focus on data-driven decision-making under uncertainty. Currently pursuing my Master's degree in Systems Modeling and Data Analytics at Amirkabir University of Technology (Tehran Polytechnic), where I maintain a 3.65 GPA and conduct research on real-time optimization of transportation networks using reinforcement learning. My academic foundation combines rigorous coursework in stochastic processes, machine learning, and optimization with hands-on research experience, including computer vision work on AI-generated image classification and teaching assistance in data mining and artificial intelligence courses.
+I am a researcher at the intersection of optimization, machine learning, and decision-making under uncertainty, with a focus on real-world operational problems.
 
-My research interests center on stochastic optimization, robust optimization, and machine learning applications in intelligent systems. Beyond academia, I've applied technical expertise as a Front-End Engineer at Barsam Intelligent Market Development, contributing to cloud ERP systems and business intelligence dashboards for Iran's largest automotive manufacturers. Proficient in Python (NumPy, Pandas, TensorFlow, PyTorch, scikit-learn), statistical modeling, and business analytics, my project portfolio spans CNN-based waste classification, discrete-event simulation for hospital optimization, and multi-objective production planning. I'm passionate about advancing management science through rigorous quantitative methods and welcome opportunities to collaborate on research addressing complex operational challenges.
+My academic journey began with an interest in how data-driven methods and optimization can be applied to complex, real-world systems. During my undergraduate studies at Amirkabir University of Technology (Tehran Polytechnic), I worked on projects spanning hospital staff scheduling, production planning, and image analysis, which introduced me to the power of intelligent systems in practical settings.
+
+I am currently an MSc candidate in Industrial Engineering (Systems Modeling and Data Analysis) at Amirkabir University of Technology, where my research centers on the dynamic control of road networks and autonomous vehicle systems. My work sits at the crossroads of sequential decision-making, stochastic optimization, and transportation, where systems must act intelligently under uncertainty and without knowledge of future states.
+Beyond my thesis, my coursework in Stochastic Processes and Game Theory has broadened my research perspective to encompass both single-agent and multi-agent optimization problems, with applications in congestion management, traffic flow, and large-scale network design.
+
+My broader research interests include:
+- Data-driven optimization for transportation and logistics
+- Sequential and adaptive decision-making under uncertainty
+- Robust and stochastic optimization
+- Operations research applied to urban and network systems
+
+I am passionate about bridging rigorous academic research with the kind of infrastructure and policy challenges that matter at scale, particularly in transportation systems where efficiency, safety, and sustainability are deeply intertwined.
